@@ -1,0 +1,28 @@
+name: Blue Barn Natural Food
+favicon: null
+layout_spectrum: 0.43102063960395753
+typography_spectrum: 0.2709752661176026
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6279146145097911
+  lightness: 0.371696651680395
+  saturation: 0.7225865118671209
+  rhythmicContrast: 0.21886769961565733
+purpose: []
